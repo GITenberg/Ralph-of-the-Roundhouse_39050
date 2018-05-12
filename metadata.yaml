@@ -1,0 +1,29 @@
+_repo: Ralph-of-the-Roundhouse_39050
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Angell, Clare
+    gutenberg_agent_id: '39756'
+    url: http://www.gutenberg.org/2009/agents/39756
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Railroads -- Juvenile fiction'
+title: Ralph of the Roundhouse; Or, Bound to Become a Railroad Man
+url: http://www.gutenberg.org/ebooks/39050
